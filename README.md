@@ -1,2 +1,2 @@
 # java-script
-my java script notes
+my java script notes basic
